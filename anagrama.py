@@ -58,6 +58,7 @@ class ShuffleWord(Word):
         return anagram_list
 
 if __name__ == "__main__":
+    print("Input:")
     anagram_word = input()
     initialize = ShuffleWord(anagram_word)
     retrieve_list = initialize.possibility_calculator()
