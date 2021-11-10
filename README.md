@@ -1,3 +1,8 @@
 # Python - Anagram
 
-This code given a string in input will produce a list with all anagram of that word without repeating.
+Basic Usage
+
+Shows a list of all anagrams for a given word.
+
+git clone https://github.com/Alexandrephz/anagram-Python.git
+python3 anagram.py
